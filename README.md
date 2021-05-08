@@ -1,3 +1,3 @@
 # SBLogging
 
-A description of this package.
+Makes logging slightly more convenient.
