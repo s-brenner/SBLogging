@@ -1,4 +1,4 @@
-#if canImport(Foundation)
+#if canImport(Foundation) && canImport(os)
 import Foundation
 
 @available(iOS 14.0, tvOS 14.0, macOS 11.0, *)
