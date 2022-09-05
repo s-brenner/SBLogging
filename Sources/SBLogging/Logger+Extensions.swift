@@ -1,6 +1,7 @@
 #if canImport(Foundation) && canImport(os)
 import Foundation
 
+@available(iOS 14, tvOS 14, macOS 11, watchOS 7, *)
 public extension Logger {
     
     /// Creates a custom logger for logging to a subsystem and category where the subsystem is set to your app's bundle identifier.
